@@ -18,6 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+      <details>
+          <summary>Click me to see the answer!</summary>
+          <p>my name is puneet</p>
+        </details>
+      </div>
     </div>
   );
 }
